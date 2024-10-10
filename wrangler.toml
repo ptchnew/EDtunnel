@@ -38,7 +38,7 @@ custom_domain = true
 pattern = "nontontv.vidio.com.amazone.vip-server.cloud"
 custom_domain = true
 [[routes]]
-pattern = "investors.spotify.com.amazone.vip-server.cloud"
+pattern = "app.midtrans.com.amazone.vip-server.cloud"
 custom_domain = true
 
 [vars]
